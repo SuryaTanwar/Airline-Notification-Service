@@ -1,6 +1,6 @@
 const NOTIFICATION_STATUS = {
     PENDING: "pending",
-    SUCCESS: "suc  cess",
+    SUCCESS: "success",
     FAILED: "failed",
 }
 
